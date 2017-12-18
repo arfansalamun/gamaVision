@@ -82,6 +82,7 @@ void findFriend(name){
 }
 void namasaya(){
     cout << "HEHEHEHEHEH";
+cout<<"GAMA VISION";
 }
 int main(){
     lowercase();
