@@ -80,7 +80,9 @@ void findFriend(name){
         }
     }
 }
-
+void namasaya(){
+    cout << "HEHEHEHEHEH";
+}
 int main(){
     lowercase();
     do{
